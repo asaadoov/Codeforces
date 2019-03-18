@@ -2,6 +2,6 @@
 
 In this repository, I will upload my solutions for Codeforces problems.
 
-##Problems
+## Problems
 
 - [71A](https://codeforces.com/problemset/problem/71/A)
